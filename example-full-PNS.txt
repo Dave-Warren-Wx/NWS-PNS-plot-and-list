@@ -1,0 +1,741 @@
+721
+NOUS41 KBOX 272300
+PNSBOX
+CTZ002>004-MAZ002>024-026-RIZ001>008-281100-
+
+Public Information Statement
+National Weather Service Boston/Norton MA
+700 PM EDT Sun Sep 27 2026
+
+...PRECIPITATION REPORTS...
+
+Location                     Amount    Time/Date       Provider
+
+...Connecticut...
+
+...Hartford County...
+SIMSBURY                     2.36 in   0625 PM 09/27   CWOP
+Farmington 4.9 WSW           1.93 in   0900 AM 09/27   COCORAHS
+Berlin                       1.87 in   0626 PM 09/27   CWOP
+Manchester                   1.87 in   0615 PM 09/27   CWOP
+Farmington 1.6 SW            1.84 in   0700 AM 09/27   COCORAHS
+Southington 1.7 WNW          1.83 in   0800 AM 09/27   COCORAHS
+Manchester                   1.76 in   0625 PM 09/27   CWOP
+Wethersfield 1.2 WSW         1.57 in   0900 AM 09/27   COCORAHS
+Berlin 1.1 SE                1.54 in   0816 AM 09/27   COCORAHS
+Bristol 2.8 NNE              1.53 in   0700 AM 09/27   COCORAHS
+Rocky Hill 1.3 E             1.43 in   0830 AM 09/27   COCORAHS
+Newington                    1.39 in   0630 PM 09/27   CWOP
+Hartford-Brainard AP         1.28 in   0615 PM 09/27   ASOS
+South Windsor 2.4 SSE        1.22 in   0800 AM 09/27   COCORAHS
+North Canton 0.8 SSW         1.19 in   0700 AM 09/27   COCORAHS
+Plainville                   1.14 in   0615 PM 09/27   CWOP
+East Granby                  1.09 in   0635 PM 09/27   AWS
+Plainville CT AP             1.08 in   0635 PM 09/27   AWOS
+1 WSW Manchester             1.04 in   0630 PM 09/27   AWS
+Avon 0.6 SSW                 1.03 in   0825 AM 09/27   COCORAHS
+Berlin                       1.02 in   0633 PM 09/27   AWS
+Salmon Brook 4.9 WSW         0.96 in   0700 AM 09/27   COCORAHS
+Granby 1.2 NW                0.95 in   0724 AM 09/27   COCORAHS
+1.8 NW Hartford              0.95 in   0600 PM 09/27   USGS
+Windsor Locks 3.2 SW         0.95 in   0700 AM 09/27   COCORAHS
+Bloomfield 1.4 ENE           0.93 in   0734 AM 09/27   COCORAHS
+1 ESE Rocky Hill             0.89 in   0630 PM 09/27   AWS
+South Windsor 1.1 NE         0.88 in   0700 AM 09/27   COCORAHS
+NEW BRITAIN                  0.80 in   0628 PM 09/27   CWOP
+Newington                    0.78 in   0627 PM 09/27   CWOP
+North Granby                 0.75 in   0625 PM 09/27   CWOP
+
+...Tolland County...
+Mansfield Center 2.7 NE      2.40 in   0830 AM 09/27   COCORAHS
+Storrs 2.8 NE                2.31 in   0700 AM 09/27   COCORAHS
+Coventry 0.3 NNE             2.23 in   0700 AM 09/27   COCORAHS
+4 S Tolland                  2.10 in   1219 PM 09/27   Trained Spotter
+Hebron 5.3 NW                2.04 in   0700 AM 09/27   COCORAHS
+Tolland                      1.58 in   0625 PM 09/27   CWOP
+Vernon 1.4 NNE               1.28 in   0900 AM 09/27   COCORAHS
+ELLINGTON                    0.98 in   0629 PM 09/27   CWOP
+Crystal Lake 1.4 E           0.76 in   0700 AM 09/27   COCORAHS
+
+...Windham County...
+Sterling 2.6 N               2.09 in   0700 AM 09/27   COCORAHS
+Hampton                      1.97 in   0630 PM 09/27   CWOP
+Canterbury 0.4 S             1.73 in   0915 AM 09/27   COCORAHS
+South Windham 1.3 NNE        1.45 in   0900 AM 09/27   COCORAHS
+3 NNE Plainfield             1.40 in   0635 PM 09/27   AWS
+Willimantic AP               1.12 in   0614 PM 09/27   ASOS
+Woodstock 0.5 N              1.04 in   0700 AM 09/27   COCORAHS
+1.9 N Putnam                 0.93 in   0530 PM 09/27   HADS
+
+...Massachusetts...
+
+...Barnstable County...
+Camp Edwards                 7.11 in   0607 PM 09/27   RAWS
+Falmouth 5.7 N               6.00 in   0700 AM 09/27   COCORAHS
+Falmouth 3.1 NNW             5.83 in   0700 AM 09/27   COCORAHS
+Falmouth 4.9 NNW             5.76 in   0700 AM 09/27   COCORAHS
+North Falmouth 1.2 SE        5.42 in   0900 AM 09/27   COCORAHS
+Falmouth 0.6 NNW             5.33 in   0828 AM 09/27   COCORAHS
+East Sandwich                5.15 in   0830 AM 09/27   COOP
+3 NE Forestdale              5.15 in   0830 AM 09/27   NWS Employee
+Waquoit 0.6 SSW              5.11 in   0800 AM 09/27   COCORAHS
+Falmouth 5.4 NNE             4.86 in   0815 AM 09/27   COCORAHS
+Sandwich 1.5 SSE             4.78 in   0745 AM 09/27   COCORAHS
+Bourne 6.2 S                 4.69 in   0700 AM 09/27   COCORAHS
+Woods Hole                   4.44 in   0615 PM 09/27   CWOP
+North Falmouth 1.0 NE        4.24 in   0800 AM 09/27   COCORAHS
+East Falmouth 1.4 ESE        4.03 in   0840 AM 09/27   COCORAHS
+Falmouth 3.2 WSW             3.96 in   0700 AM 09/27   COCORAHS
+Sandwich 0.5 WNW             3.03 in   0700 AM 09/27   COCORAHS
+Sandwich 0.9 NNE             2.95 in   0857 AM 09/27   COCORAHS
+Yarmouth 2.0 S               2.26 in   0800 AM 09/27   COCORAHS
+Hyannis AP                   1.84 in   0632 PM 09/27   ASOS
+Mashpee                      1.82 in   0635 PM 09/27   AWS
+Wellfleet 0.7 NW             1.66 in   0800 AM 09/27   COCORAHS
+Eastham 0.9 SW               1.59 in   0700 AM 09/27   COCORAHS
+East Dennis 0.4 S            1.48 in   0700 AM 09/27   COCORAHS
+Truro 0.8 E                  1.47 in   0750 AM 09/27   COCORAHS
+2 SSW Mashpee                1.35 in   0634 PM 09/27   AWS
+SOUTH DENNIS                 1.34 in   0558 PM 09/27   CWOP
+Orleans 1.1 E                1.32 in   0924 AM 09/27   COCORAHS
+Yarmouth 2.3 SSE             1.25 in   0700 AM 09/27   COCORAHS
+Chatham AP                   1.23 in   0607 PM 09/27   ASOS
+3 WSW Harwich                1.19 in   0634 PM 09/27   AWS
+East Falmouth                1.04 in   0630 PM 09/27   CWOP
+Chatham 1.6 WNW              0.92 in   0700 AM 09/27   COCORAHS
+
+...Bristol County...
+Acushnet                     7.33 in   0631 PM 09/27   Trained Spotter
+NWS Boston/Norton            4.63 in   0700 AM 09/27   COOP
+1 WNW Taunton                4.51 in   0936 AM 09/27   Trained Spotter
+NWS Boston/Norton 2.5 ESE    4.50 in   0700 AM 09/27   COCORAHS
+Mansfield MA AP              4.24 in   0635 PM 09/27   AWOS
+Dighton 3.3 NNW              4.20 in   0800 AM 09/27   COCORAHS
+Dighton 1.1 WSW              3.99 in   0800 AM 09/27   COCORAHS
+Mansfield 2.4 ENE            3.85 in   0745 AM 09/27   COCORAHS
+Swansea                      3.62 in   0800 AM 09/27   COCORAHS
+New Bedford AP               3.60 in   0553 PM 09/27   ASOS
+Attleboro 0.9 ENE            3.59 in   0847 AM 09/27   COCORAHS
+Swansea 2.1 W                3.36 in   0800 AM 09/27   COCORAHS
+Somerset                     2.63 in   0615 PM 09/27   CWOP
+3 SE Westport                2.10 in   0630 PM 09/27   AWS
+WESTPORT                     1.98 in   0628 PM 09/27   CWOP
+Norton                       1.83 in   0615 PM 09/27   CWOP
+NW Swansea                   1.66 in   0615 PM 09/27   CWOP
+New Bedford                  1.63 in   0615 PM 09/27   CWOP
+Acushnet                     1.53 in   0625 PM 09/27   CWOP
+Norton                       1.09 in   0510 PM 09/27   AWS
+Berkley                      0.89 in   0630 PM 09/27   CWOP
+
+...Dukes County...
+West Tisbury 2.6 NNE         5.51 in   0800 AM 09/27   COCORAHS
+Vineyard Haven 0.8 WSW       4.66 in   0900 AM 09/27   COCORAHS
+Edgartown                    4.53 in   0900 AM 09/27   COOP
+Marthas Vineyard AP          4.40 in   0553 PM 09/27   ASOS
+
+...Essex County...
+West Newbury                 1.84 in   0615 PM 09/27   CWOP
+Newbury                      1.74 in   0915 AM 09/27   COCORAHS
+Beverly AP                   1.64 in   0623 PM 09/27   ASOS
+MERRIMAC                     1.48 in   0625 PM 09/27   CWOP
+Middleton 1.4 SSW            1.46 in   0800 AM 09/27   COCORAHS
+Beverly 1.6 W                1.45 in   0800 AM 09/27   COCORAHS
+North Andover 0.3 NW         1.42 in   0800 AM 09/27   COCORAHS
+BEVERLY                      1.36 in   0615 PM 09/27   CWOP
+Lawrence AP                  1.33 in   0554 PM 09/27   ASOS
+Marblehead 0.6 WNW           1.32 in   0800 AM 09/27   COCORAHS
+Groveland                    1.21 in   0600 PM 09/27   CWOP
+Marblehead 1.9 NNE           1.20 in   0900 AM 09/27   COCORAHS
+Newburyport, MA              1.20 in   0800 AM 09/27   HADS
+Manchester                   1.19 in   0629 PM 09/27   URBANET
+Groveland 1.2 NE             1.16 in   0937 AM 09/27   COCORAHS
+2.3 NE Georgetown            1.04 in   0530 PM 09/27   USGS
+Methuen 1.4 NE               0.83 in   0800 AM 09/27   COCORAHS
+Boxford 2.4 S                0.78 in   0700 AM 09/27   COCORAHS
+Swampscott                   0.77 in   0601 PM 09/27   CWOP
+
+...Franklin County...
+Ashfield                     2.39 in   0615 PM 09/27   CWOP
+Orange AP                    0.87 in   0552 PM 09/27   ASOS
+Greenfield                   0.83 in   0615 PM 09/27   CWOP
+
+...Hampden County...
+2 SSE Granville              1.16 in   0630 PM 09/27   AWS
+Tolland                      1.15 in   0615 PM 09/27   CWOP
+Monson 3.4 SSE               0.81 in   0700 AM 09/27   COCORAHS
+
+...Hampshire County...
+Pelham                       0.79 in   0625 PM 09/27   CWOP
+Easthampton                  0.75 in   0616 PM 09/27   CWOP
+
+...Middlesex County...
+3 NE Milford                 5.00 in   0519 PM 09/27   Trained Spotter
+Wellesley                    4.10 in   0615 PM 09/27   CWOP
+2 SW Hopkinton               3.81 in   1226 PM 09/27   Trained Spotter
+Natick                       3.27 in   0615 PM 09/27   CWOP
+Holyoke                      3.07 in   0610 PM 09/27   CWOP
+Marlborough                  2.95 in   0627 PM 09/27   CWOP
+2 SW Ashland                 2.82 in   0700 AM 09/27   COCORAHS
+NEWTON                       2.70 in   0615 PM 09/27   CWOP
+Hopkinton                    2.67 in   0628 PM 09/27   CWOP
+Natick 1.9 NNE               2.40 in   0800 AM 09/27   COCORAHS
+Watertown                    2.39 in   0630 PM 09/27   CWOP
+Framingham 1.6 ENE           2.22 in   0820 AM 09/27   COCORAHS
+Cambridge                    2.01 in   0634 PM 09/27   AWS
+Somerville                   1.99 in   0624 PM 09/27   CWOP
+Newton 1.8 NNW               1.90 in   0900 AM 09/27   COCORAHS
+Cambridge 0.9 NNW            1.62 in   0800 AM 09/27   COCORAHS
+1 WNW Pepperell              1.61 in   0354 PM 09/27   Trained Spotter
+Acton                        1.50 in   0615 PM 09/27   CWOP
+Cambridge 1.0 WNW            1.47 in   0925 AM 09/27   COCORAHS
+1 WNW Carlisle               1.43 in   0610 PM 09/27   Trained Spotter
+Wakefield 0.9 S              1.40 in   0900 AM 09/27   COCORAHS
+Winchester 0.7 SE            1.38 in   0830 AM 09/27   COCORAHS
+WALTHAM                      1.37 in   0625 PM 09/27   CWOP
+Littleton                    1.35 in   0628 PM 09/27   URBANET
+Bedford AP                   1.28 in   0551 PM 09/27   ASOS
+Westford                     1.26 in   0615 PM 09/27   CWOP
+1 NNW Lexington              1.24 in   1216 PM 09/27   Trained Spotter
+Winchester 0.8 W             1.19 in   0800 AM 09/27   COCORAHS
+Groton                       1.18 in   0615 PM 09/27   CWOP
+Hudson 1.4 NW                1.16 in   0700 AM 09/27   COCORAHS
+Carlisle                     1.14 in   0615 PM 09/27   CWOP
+Maynard 0.6 NNE              1.14 in   0700 AM 09/27   COCORAHS
+Westford                     1.13 in   0615 PM 09/27   CWOP
+Maynard 0.7 ESE              1.11 in   0700 AM 09/27   COCORAHS
+1 NW Framingham              1.08 in   0900 AM 09/27   COCORAHS
+WILMINGTON                   1.08 in   0629 PM 09/27   CWOP
+Lowell 2.6 ENE               1.07 in   0800 AM 09/27   COCORAHS
+Belmont 0.2 ESE              1.06 in   0640 AM 09/27   COCORAHS
+Bedford                      1.04 in   0620 PM 09/27   CWOP
+CHELMSFORDCHELMSFORD         1.03 in   0630 PM 09/27   CWOP
+Holliston                    1.03 in   0625 PM 09/27   CWOP
+Chelmsford 1.2 E             1.01 in   0957 AM 09/27   COCORAHS
+Woburn 0.8 S                 0.97 in   0815 AM 09/27   COCORAHS
+Lexington                    0.96 in   0628 PM 09/27   CWOP
+Littleton 1.4 W              0.93 in   0745 AM 09/27   COCORAHS
+Marlborough Intermediat Marl 0.92 in   0630 PM 09/27   URBANET
+Melrose 1.0 WNW              0.92 in   0700 AM 09/27   COCORAHS
+Groton 4.2 WNW               0.88 in   0800 AM 09/27   COCORAHS
+Lexington 2.8 N              0.83 in   0900 AM 09/27   COCORAHS
+Lexington                    0.82 in   0720 AM 09/27   COCORAHS
+Ayer 0.1 SW                  0.81 in   0700 AM 09/27   COCORAHS
+Chelmsford 2.8 SSW           0.77 in   0700 AM 09/27   COCORAHS
+Littleton 0.9 WSW            0.76 in   0700 AM 09/27   COCORAHS
+Pepperell 0.6 SE             0.75 in   0749 AM 09/27   COCORAHS
+
+...Nantucket County...
+Nantucket AP                 1.86 in   0618 PM 09/27   ASOS
+
+...Norfolk County...
+Blue Hills                   6.90 in   0550 PM 09/27   RAWS
+1 ESE Randolph               6.84 in   0354 PM 09/27   Trained Spotter
+Westwood                     5.69 in   0625 PM 09/27   CWOP
+1 SSE Millis                 5.65 in   0219 PM 09/27   Trained Spotter
+Milton (Blue Hill)           5.42 in   0616 PM 09/27   CWOP
+1 NE Foxborough              5.41 in   1127 AM 09/27   Trained Spotter
+Blue Hill Coop               5.12 in   0800 AM 09/27   COOP
+2 NNW Weymouth               4.89 in   0206 PM 09/27   Trained Spotter
+Norwood AP                   4.86 in   0553 PM 09/27   ASOS
+Franklin                     4.32 in   0629 PM 09/27   CWOP
+Foxborough 3.1 E             4.19 in   0830 AM 09/27   COCORAHS
+South Weymouth 1.3 ENE       3.85 in   0900 AM 09/27   COCORAHS
+Norwood 1.3 NW               3.63 in   0700 AM 09/27   COCORAHS
+Stoughton 1.2 E              3.63 in   0745 AM 09/27   COCORAHS
+1 SE Needham                 3.27 in   0825 AM 09/27   COCORAHS
+2 NE Plainville              3.18 in   0800 AM 09/27   COCORAHS
+WELLESLEY                    3.17 in   0625 PM 09/27   CWOP
+Quincy 0.4 NNW               2.90 in   0745 AM 09/27   COCORAHS
+Franklin 3.8 SW              2.86 in   0800 AM 09/27   COCORAHS
+EAST WALPOLE                 2.77 in   0600 PM 09/27   CWOP
+Walpole                      1.88 in   0635 PM 09/27   AWS
+Needham                      0.94 in   0630 PM 09/27   CWOP
+Dover                        0.93 in   0625 PM 09/27   CWOP
+
+...Plymouth County...
+2 NNW West Bridgewater       6.53 in   1155 AM 09/27   Trained Spotter
+2 NNW Carver                 6.31 in   0720 AM 09/27   Public
+Plympton 0.9 NNE             5.72 in   1251 PM 09/27   COCORAHS
+3 WNW Kingston               5.67 in   0136 PM 09/27   Trained Spotter
+Pembroke 2.8 SW              5.21 in   0800 AM 09/27   COCORAHS
+Whitman                      5.13 in   1039 AM 09/27   Trained Spotter
+Wareham 5.6 NE               5.07 in   0700 AM 09/27   COCORAHS
+1 WNW Hanson                 4.26 in   0630 PM 09/27   URBANET
+Plymouth AP                  3.62 in   0613 PM 09/27   ASOS
+Duxbury                      3.29 in   0617 PM 09/27   CWOP
+Plymouth 4.5 SSE             3.27 in   0800 AM 09/27   COCORAHS
+Pembroke                     2.94 in   0615 PM 09/27   CWOP
+West Wareham                 2.92 in   0626 PM 09/27   CWOP
+HINGHAM                      2.85 in   0615 PM 09/27   CWOP
+3 NW Rochester               2.42 in   0630 PM 09/27   AWS
+Cohasset 0.7 WNW             2.40 in   0800 AM 09/27   COCORAHS
+NORWELL                      1.41 in   0627 PM 09/27   CWOP
+Lewes                        1.30 in   0630 PM 09/27   CWOP
+MARSHFIELD                   1.27 in   0626 PM 09/27   CWOP
+Plymouth                     1.27 in   0625 PM 09/27   CWOP
+Pembroke                     1.17 in   0630 PM 09/27   AWS
+2 SE Cohasset                1.11 in   0630 PM 09/27   AWS
+Abington                     0.95 in   0635 PM 09/27   AWS
+2 ESE Marion                 0.95 in   0635 PM 09/27   AWS
+Pembroke                     0.87 in   0625 PM 09/27   CWOP
+2 WNW Cohasset               0.79 in   0633 PM 09/27   AWS
+
+...Suffolk County...
+Brighton                     3.68 in   0629 PM 09/27   URBANET
+Boston 6.5 SW                3.38 in   0900 AM 09/27   COCORAHS
+Jamacia Plain                3.32 in   0800 AM 09/27   COOP
+1.4 SE Allston               2.60 in   0530 PM 09/27   USGS
+Logan AP                     2.15 in   0554 PM 09/27   ASOS
+Chelsea 0.8 N                2.12 in   0700 AM 09/27   COCORAHS
+
+...Worcester County...
+1 WSW Westborough            4.11 in   0635 PM 09/27   AWS
+2 SSW Harvard                3.90 in   0123 PM 09/27   Public
+2 WSW Westborough            3.57 in   0604 PM 09/27   NWS Employee
+Shrewsbury 0.4 S             3.54 in   0905 AM 09/27   COCORAHS
+WORCESTER                    3.45 in   0556 PM 09/27   CWOP
+Blackstone                   3.00 in   0628 PM 09/27   CWOP
+Worcester 2.0 SE             2.72 in   0800 AM 09/27   COCORAHS
+Shrewsbury 1.6 NNE           2.70 in   0912 AM 09/27   COCORAHS
+Worcester AP                 2.70 in   0554 PM 09/27   ASOS
+2 WSW Auburn                 2.42 in   0635 PM 09/27   AWS
+Worcester                    2.32 in   0615 PM 09/27   CWOP
+Paxton 1.8 ESE               2.15 in   0823 AM 09/27   COCORAHS
+Auburn 2.6 SW                2.02 in   0930 AM 09/27   COCORAHS
+Westborough 1.6 W            1.88 in   0800 AM 09/27   COCORAHS
+Fitchburg AP                 1.78 in   0614 PM 09/27   ASOS
+Berlin 1.3 WSW               1.65 in   0745 AM 09/27   COCORAHS
+Webster                      1.65 in   0615 PM 09/27   CWOP
+Northbridge 1.7 WNW          1.51 in   0929 AM 09/27   COCORAHS
+West Boylston 1.5 S          1.49 in   0700 AM 09/27   COCORAHS
+Leicester 2.4 ESE            1.39 in   0820 AM 09/27   COCORAHS
+Harvard 2.1 S                1.36 in   0823 AM 09/27   COCORAHS
+Gardner 1.4 SSW              1.26 in   0700 AM 09/27   COCORAHS
+Auburn 2.1 NNE               1.22 in   0909 AM 09/27   COCORAHS
+Leicester 2.5 WSW            1.06 in   0700 AM 09/27   COCORAHS
+Rutland 3.8 N                1.03 in   0700 AM 09/27   COCORAHS
+Fitchburg 1.5 NNE            0.99 in   0800 AM 09/27   COCORAHS
+Lancaster 0.6 NNE            0.96 in   0700 AM 09/27   COCORAHS
+Southbridge                  0.89 in   0700 AM 09/27   COOP
+Sturbridge 4.6 SW            0.84 in   0700 AM 09/27   COCORAHS
+Spencer 1.7 W                0.80 in   0733 AM 09/27   COCORAHS
+Ashburnham                   0.75 in   0700 AM 09/27   COOP
+1.9 W Oxford                 0.75 in   0530 PM 09/27   HADS
+
+...Rhode Island...
+
+...Bristol County...
+Warren                       3.55 in   0256 PM 09/27   Public
+Barrington 1.3 WNW           2.95 in   0700 AM 09/27   COCORAHS
+
+...Kent County...
+West Warwick 2.1 NNE         3.54 in   0806 AM 09/27   COCORAHS
+West Warwick 3.3 SSW         3.46 in   0800 AM 09/27   COCORAHS
+East Greenwich 0.8 SE        3.40 in   0800 AM 09/27   COCORAHS
+Coventry                     3.28 in   0900 AM 09/27   COCORAHS
+Coventry 5.0 WNW             2.99 in   0800 AM 09/27   COCORAHS
+Coventry 1.2 SW              2.90 in   0800 AM 09/27   COCORAHS
+Warwick 1.4 NE               2.84 in   0815 AM 09/27   COCORAHS
+East Greenwich 2.3 ESE       2.67 in   0800 AM 09/27   COCORAHS
+RI TF Green AP               2.63 in   0632 PM 09/27   ASOS
+East Greenwich 2.0 NE        2.04 in   0900 AM 09/27   COCORAHS
+COVENTRY                     1.52 in   0626 PM 09/27   CWOP
+COVENTRY                     1.45 in   0627 PM 09/27   CWOP
+
+...Newport County...
+Portsmouth 3.7 NNE           4.14 in   0700 AM 09/27   COCORAHS
+Tiverton 3.6 S               3.38 in   0920 AM 09/27   COCORAHS
+Jamestown 0.7 NNE            3.02 in   0800 AM 09/27   COCORAHS
+Portsmouth 5.2 SSE           2.67 in   0800 AM 09/27   COCORAHS
+Jamestown 0.4 NE             2.05 in   0800 AM 09/27   COCORAHS
+1 NW Jamestown               1.62 in   0634 PM 09/27   AWS
+Newport                      1.61 in   0630 PM 09/27   AWS
+Newport 1.3 SW               1.16 in   0800 AM 09/27   COCORAHS
+
+...Providence County...
+Cranston 1.7 NNE             3.52 in   0800 AM 09/27   COCORAHS
+Pawtucket 1.8 E              3.12 in   0800 AM 09/27   COCORAHS
+Cranston 4.2 ENE             3.08 in   0845 AM 09/27   COCORAHS
+Providence 2.0 ENE           2.87 in   0800 AM 09/27   COCORAHS
+CHEPACHET                    2.65 in   0626 PM 09/27   CWOP
+Greenville 0.7 NNW           2.63 in   0700 AM 09/27   COCORAHS
+Cumberland 2.4 ENE           2.57 in   0830 AM 09/27   COCORAHS
+Cranston 1.5 SW              2.31 in   0917 AM 09/27   COCORAHS
+Valley Falls 1.1 W           2.20 in   0800 AM 09/27   COCORAHS
+
+...Washington County...
+Wakefield 0.8 ENE            3.37 in   0800 AM 09/27   COCORAHS
+North Kingstown 2.7 WSW      3.34 in   0800 AM 09/27   COCORAHS
+North Kingstown 0.5 NNW      3.31 in   0700 AM 09/27   COCORAHS
+Block Island Coop            3.20 in   0800 AM 09/27   COOP
+Exeter 2.4 ESE               3.17 in   0929 AM 09/27   COCORAHS
+Kingston 0.3 SW              3.16 in   0700 AM 09/27   COCORAHS
+North Kingston 0.4 W         3.15 in   0902 AM 09/27   COCORAHS
+Wickford 0.8 WNW             2.86 in   0800 AM 09/27   COCORAHS
+Richmond 2.9 NE              2.80 in   0900 AM 09/27   COCORAHS
+Richmond 2.4 SSE             2.77 in   0800 AM 09/27   COCORAHS
+Charlestown 2.3 ENE          2.69 in   0800 AM 09/27   COCORAHS
+South Kingstown 4.2 WSW      2.60 in   0800 AM 09/27   COCORAHS
+Wakefield-Peacedale 3.1 NE   2.55 in   0700 AM 09/27   COCORAHS
+South Kingston 4.3 WSW       2.41 in   0800 AM 09/27   COCORAHS
+Kingston 3.6 N               2.39 in   0700 AM 09/27   COCORAHS
+Charlestown 1.0 NE           2.37 in   0800 AM 09/27   COCORAHS
+Narragansett 2.7 NNE         2.36 in   0700 AM 09/27   COCORAHS
+Wood River Junction 0.7 W    2.34 in   0800 AM 09/27   COCORAHS
+Saunderstown 1.4 SW          2.16 in   0800 AM 09/27   COCORAHS
+Bradford 1.9 NE              1.90 in   0855 AM 09/27   COCORAHS
+Charlestown 3.0 WSW          1.73 in   0800 AM 09/27   COCORAHS
+URI PLAINS ROAD KINGSTON 1 N 1.54 in   0605 PM 09/27   HADS
+2 ENE Charlestown            1.49 in   0630 PM 09/27   AWS
+Westerly AP                  1.46 in   0634 PM 09/27   ASOS
+Westerly 2.4 NNW             1.35 in   0700 AM 09/27   COCORAHS
+Westerly 0.8 WNW             1.32 in   0700 AM 09/27   COCORAHS
+URI PECKHAM FARMS KINGSTON 1 1.31 in   0605 PM 09/27   HADS
+3.9 SW South Kingstown       1.16 in   0632 PM 09/27   HADS
+Westerly 3.5 S               1.12 in   0700 AM 09/27   COCORAHS
+Block Island AP              0.92 in   0556 PM 09/27   AWOS
+&&
+
+**METADATA**
+:9/27/2026,0625 PM, CT, Hartford, North Granby, , , 42.0243, -72.8208, RAIN_48, 0.75, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0627 PM, CT, Hartford, Newington, , , 41.6955, -72.7258, RAIN_48, 0.78, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0628 PM, CT, Hartford, NEW BRITAIN, , , 41.6858, -72.77, RAIN_48, 0.8, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0700 AM, CT, Hartford, South Windsor 1.1 NE, , , 41.8585, -72.5553, RAIN_48, 0.88, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0630 PM, CT, Hartford, 1 ESE Rocky Hill, , , 41.6575, -72.6069, RAIN_72, 0.89, Inch, AWS, 72 hour rainfall,
+:9/27/2026,0734 AM, CT, Hartford, Bloomfield 1.4 ENE, , , 41.836, -72.7076, RAIN_48, 0.93, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0724 AM, CT, Hartford, Granby 1.2 NW, , , 41.9663, -72.8068, RAIN_48, 0.95, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0600 PM, CT, Hartford, 1.8 NW Hartford, , , 41.7844, -72.7081, RAIN_48, 0.95, Inch, USGS, 48 hour rainfall,
+:9/27/2026,0700 AM, CT, Hartford, Windsor Locks 3.2 SW, , , 41.8891, -72.6966, RAIN_48, 0.95, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0700 AM, CT, Hartford, Salmon Brook 4.9 WSW, , , 41.9387, -72.8889, RAIN_48, 0.96, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0633 PM, CT, Hartford, Berlin, , , 41.6227, -72.7519, RAIN_72, 1.02, Inch, AWS, 72 hour rainfall,
+:9/27/2026,0825 AM, CT, Hartford, Avon 0.6 SSW, , , 41.8014, -72.8343, RAIN_48, 1.03, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0630 PM, CT, Hartford, 1 WSW Manchester, , , 41.7719, -72.5506, RAIN_72, 1.04, Inch, AWS, 72 hour rainfall,
+:9/27/2026,0635 PM, CT, Hartford, Plainville CT AP, , , 41.69, -72.865, RAIN_72, 1.08, Inch, AWOS, 72 hour rainfall,
+:9/27/2026,0635 PM, CT, Hartford, East Granby, , , 41.9333, -72.7281, RAIN_72, 1.09, Inch, AWS, 72 hour rainfall,
+:9/27/2026,0615 PM, CT, Hartford, Plainville, , , 41.6887, -72.8555, RAIN_48, 1.14, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0700 AM, CT, Hartford, North Canton 0.8 SSW, , , 41.8851, -72.8973, RAIN_48, 1.19, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0800 AM, CT, Hartford, South Windsor 2.4 SSE, , , 41.8152, -72.5585, RAIN_48, 1.22, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0615 PM, CT, Hartford, Hartford-Brainard AP, , , 41.7333, -72.65, RAIN_48, 1.28, Inch, ASOS, 48 hour rainfall,
+:9/27/2026,0630 PM, CT, Hartford, Newington, , , 41.6728, -72.7227, RAIN_48, 1.39, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0830 AM, CT, Hartford, Rocky Hill 1.3 E, , , 41.6592, -72.6414, RAIN_48, 1.43, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0700 AM, CT, Hartford, Bristol 2.8 NNE, , , 41.7165, -72.9135, RAIN_48, 1.53, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0816 AM, CT, Hartford, Berlin 1.1 SE, , , 41.6116, -72.7289, RAIN_48, 1.54, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0900 AM, CT, Hartford, Wethersfield 1.2 WSW, , , 41.6926, -72.6909, RAIN_48, 1.57, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0625 PM, CT, Hartford, Manchester, , , 41.7563, -72.5589, RAIN_48, 1.76, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0800 AM, CT, Hartford, Southington 1.7 WNW, , , 41.6061, -72.9089, RAIN_48, 1.83, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0700 AM, CT, Hartford, Farmington 1.6 SW, , , 41.7169, -72.8122, RAIN_48, 1.84, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0626 PM, CT, Hartford, Berlin, , , 41.5887, -72.7647, RAIN_48, 1.87, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0615 PM, CT, Hartford, Manchester, , , 41.7418, -72.5415, RAIN_48, 1.87, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0900 AM, CT, Hartford, Farmington 4.9 WSW, , , 41.6993, -72.8754, RAIN_48, 1.93, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0625 PM, CT, Hartford, SIMSBURY, , , 41.8376, -72.8433, RAIN_48, 2.36, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0700 AM, CT, Tolland, Crystal Lake 1.4 E, , , 41.9367, -72.3472, RAIN_48, 0.76, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0629 PM, CT, Tolland, ELLINGTON, , , 41.8773, -72.4495, RAIN_48, 0.98, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0900 AM, CT, Tolland, Vernon 1.4 NNE, , , 41.8359, -72.4719, RAIN_48, 1.28, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0625 PM, CT, Tolland, Tolland, , , 41.8128, -72.4577, RAIN_48, 1.58, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0700 AM, CT, Tolland, Hebron 5.3 NW, , , 41.7196, -72.4312, RAIN_48, 2.04, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,1219 PM, CT, Tolland, 4 S Tolland, , , 41.8157, -72.3672, RAIN_24, 2.10, Inch, Trained Spotter, 24 hour rainfall,
+:9/27/2026,0700 AM, CT, Tolland, Coventry 0.3 NNE, , , 41.7881, -72.3374, RAIN_48, 2.23, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0700 AM, CT, Tolland, Storrs 2.8 NE, , , 41.8389, -72.2243, RAIN_48, 2.31, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0830 AM, CT, Tolland, Mansfield Center 2.7 NE, , , 41.7943, -72.1621, RAIN_48, 2.4, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0530 PM, CT, Windham, 1.9 N Putnam, , , 41.9436, -71.8997, RAIN_48, 0.93, Inch, HADS, 48 hour rainfall,
+:9/27/2026,0700 AM, CT, Windham, Woodstock 0.5 N, , , 41.9549, -71.9739, RAIN_48, 1.04, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0614 PM, CT, Windham, Willimantic AP, , , 41.75, -72.1833, RAIN_48, 1.12, Inch, ASOS, 48 hour rainfall,
+:9/27/2026,0635 PM, CT, Windham, 3 NNE Plainfield, , , 41.7275, -71.9056, RAIN_72, 1.4, Inch, AWS, 72 hour rainfall,
+:9/27/2026,0900 AM, CT, Windham, South Windham 1.3 NNE, , , 41.7018, -72.1765, RAIN_48, 1.45, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0915 AM, CT, Windham, Canterbury 0.4 S, , , 41.692, -71.971, RAIN_48, 1.73, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0630 PM, CT, Windham, Hampton, , , 41.7675, -72.0533, RAIN_48, 1.97, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0700 AM, CT, Windham, Sterling 2.6 N, , , 41.7454, -71.8354, RAIN_48, 2.09, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0700 AM, MA, Barnstable, Chatham 1.6 WNW, , , 41.681, -69.9921, RAIN_48, 0.92, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0630 PM, MA, Barnstable, East Falmouth, , , 41.5883, -70.6022, RAIN_48, 1.04, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0634 PM, MA, Barnstable, 3 WSW Harwich, , , 41.6731, -70.1261, RAIN_72, 1.19, Inch, AWS, 72 hour rainfall,
+:9/27/2026,0607 PM, MA, Barnstable, Chatham AP, , , 41.6833, -70, RAIN_48, 1.23, Inch, ASOS, 48 hour rainfall,
+:9/27/2026,0700 AM, MA, Barnstable, Yarmouth 2.3 SSE, , , 41.6818, -70.2048, RAIN_48, 1.25, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0924 AM, MA, Barnstable, Orleans 1.1 E, , , 41.7887, -69.9786, RAIN_48, 1.32, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0558 PM, MA, Barnstable, SOUTH DENNIS, , , 41.7094, -70.167, RAIN_48, 1.34, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0634 PM, MA, Barnstable, 2 SSW Mashpee, , , 41.6131, -70.505, RAIN_72, 1.35, Inch, AWS, 72 hour rainfall,
+:9/27/2026,0750 AM, MA, Barnstable, Truro 0.8 E, , , 42.0021, -70.0506, RAIN_48, 1.47, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0700 AM, MA, Barnstable, East Dennis 0.4 S, , , 41.7369, -70.1606, RAIN_48, 1.48, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0700 AM, MA, Barnstable, Eastham 0.9 SW, , , 41.8236, -69.979, RAIN_48, 1.59, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0800 AM, MA, Barnstable, Wellfleet 0.7 NW, , , 41.941, -70.0433, RAIN_48, 1.66, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0635 PM, MA, Barnstable, Mashpee, , , 41.6567, -70.4972, RAIN_72, 1.82, Inch, AWS, 72 hour rainfall,
+:9/27/2026,0632 PM, MA, Barnstable, Hyannis AP, , , 41.6667, -70.2667, RAIN_72, 1.84, Inch, ASOS, 72 hour rainfall,
+:9/27/2026,0800 AM, MA, Barnstable, Yarmouth 2.0 S, , , 41.681, -70.2256, RAIN_48, 2.26, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0857 AM, MA, Barnstable, Sandwich 0.9 NNE, , , 41.7701, -70.4941, RAIN_48, 2.95, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0700 AM, MA, Barnstable, Sandwich 0.5 WNW, , , 41.7612, -70.5087, RAIN_48, 3.03, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0700 AM, MA, Barnstable, Falmouth 3.2 WSW, , , 41.5305, -70.6665, RAIN_48, 3.96, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0840 AM, MA, Barnstable, East Falmouth 1.4 ESE, , , 41.5738, -70.5321, RAIN_48, 4.03, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0800 AM, MA, Barnstable, North Falmouth 1.0 NE, , , 41.6511, -70.6192, RAIN_48, 4.24, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0615 PM, MA, Barnstable, Woods Hole, , , 41.5267, -70.6741, RAIN_48, 4.44, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0700 AM, MA, Barnstable, Bourne 6.2 S, , , 41.6437, -70.6089, RAIN_48, 4.69, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0745 AM, MA, Barnstable, Sandwich 1.5 SSE, , , 41.7379, -70.4905, RAIN_48, 4.78, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0815 AM, MA, Barnstable, Falmouth 5.4 NNE, , , 41.6226, -70.5827, RAIN_48, 4.86, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0800 AM, MA, Barnstable, Waquoit 0.6 SSW, , , 41.5818, -70.5257, RAIN_48, 5.11, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0830 AM, MA, Barnstable, East Sandwich, , , 41.7145, -70.4718, RAIN_48, 5.15, Inch, COOP, 48 hour rainfall,
+:9/27/2026,0830 AM, MA, Barnstable, 3 NE Forestdale, , , 41.7144, -70.4718, RAIN_24, 5.15, Inch, NWS Employee, 24 hour rainfall,
+:9/27/2026,0828 AM, MA, Barnstable, Falmouth 0.6 NNW, , , 41.5538, -70.6115, RAIN_48, 5.33, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0900 AM, MA, Barnstable, North Falmouth 1.2 SE, , , 41.6328, -70.6144, RAIN_48, 5.42, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0700 AM, MA, Barnstable, Falmouth 4.9 NNW, , , 41.6104, -70.6463, RAIN_48, 5.76, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0700 AM, MA, Barnstable, Falmouth 3.1 NNW, , , 41.5871, -70.6321, RAIN_48, 5.83, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0700 AM, MA, Barnstable, Falmouth 5.7 N, , , 41.6284, -70.6232, RAIN_48, 6, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0607 PM, MA, Barnstable, Camp Edwards, , , 41.7072, -70.5641, RAIN_48, 7.11, Inch, RAWS, 48 hour rainfall,
+:9/27/2026,0630 PM, MA, Bristol, Berkley, , , 41.8475, -71.0533, RAIN_48, 0.89, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0510 PM, MA, Bristol, Norton, , , 41.9661, -71.1831, RAIN_48, 1.09, Inch, AWS, 48 hour rainfall,
+:9/27/2026,0625 PM, MA, Bristol, Acushnet, , , 41.6966, -70.9258, RAIN_48, 1.53, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0615 PM, MA, Bristol, New Bedford, , , 41.6755, -70.934, RAIN_48, 1.63, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0615 PM, MA, Bristol, NW Swansea, , , 41.7558, -71.2043, RAIN_48, 1.66, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0615 PM, MA, Bristol, Norton, , , 41.969, -71.2422, RAIN_48, 1.83, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0628 PM, MA, Bristol, WESTPORT, , , 41.671, -71.1118, RAIN_48, 1.98, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0630 PM, MA, Bristol, 3 SE Westport, , , 41.6208, -71.0592, RAIN_72, 2.1, Inch, AWS, 72 hour rainfall,
+:9/27/2026,0615 PM, MA, Bristol, Somerset, , , 41.7737, -71.1468, RAIN_48, 2.63, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0800 AM, MA, Bristol, Swansea 2.1 W, , , 41.7465, -71.2245, RAIN_48, 3.36, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0847 AM, MA, Bristol, Attleboro 0.9 ENE, , , 41.9358, -71.2806, RAIN_48, 3.59, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0553 PM, MA, Bristol, New Bedford AP, , , 41.6833, -70.95, RAIN_48, 3.6, Inch, ASOS, 48 hour rainfall,
+:9/27/2026,0800 AM, MA, Bristol, Swansea, , , 41.7613, -71.1755, RAIN_48, 3.62, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0745 AM, MA, Bristol, Mansfield 2.4 ENE, , , 42.0359, -71.1747, RAIN_48, 3.85, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0800 AM, MA, Bristol, Dighton 1.1 WSW, , , 41.812, -71.1365, RAIN_48, 3.99, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0800 AM, MA, Bristol, Dighton 3.3 NNW, , , 41.858, -71.1473, RAIN_48, 4.2, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0635 PM, MA, Bristol, Mansfield MA AP, , , 42.0009, -71.198, RAIN_72, 4.24, Inch, AWOS, 72 hour rainfall,
+:9/27/2026,0700 AM, MA, Bristol, NWS Boston/Norton 2.5 ESE, , , 41.9563, -71.1393, RAIN_48, 4.5, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0936 AM, MA, Bristol, 1 WNW Taunton, , , 41.9081, -71.1182, RAIN_24, 4.51, Inch, Trained Spotter, 24 hour rainfall,
+:9/27/2026,0700 AM, MA, Bristol, NWS Boston/Norton, , , 41.9561, -71.1395, RAIN_48, 4.63, Inch, COOP, 48 hour rainfall,
+:9/27/2026,0631 PM, MA, Bristol, Acushnet, , , 41.6928, -70.9036, RAIN_24, 7.33, Inch, Trained Spotter, 24 hour rainfall,
+:9/27/2026,0553 PM, MA, Dukes, Marthas Vineyard AP, , , 41.4, -70.62, RAIN_48, 4.4, Inch, ASOS, 48 hour rainfall,
+:9/27/2026,0900 AM, MA, Dukes, Edgartown, , , 41.3854, -70.518, RAIN_48, 4.53, Inch, COOP, 48 hour rainfall,
+:9/27/2026,0900 AM, MA, Dukes, Vineyard Haven 0.8 WSW, , , 41.4433, -70.6302, RAIN_48, 4.66, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0800 AM, MA, Dukes, West Tisbury 2.6 NNE, , , 41.4196, -70.6698, RAIN_48, 5.51, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0601 PM, MA, Essex, Swampscott, , , 42.4687, -70.9088, RAIN_48, 0.77, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0700 AM, MA, Essex, Boxford 2.4 S, , , 42.6397, -70.9797, RAIN_48, 0.78, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0800 AM, MA, Essex, Methuen 1.4 NE, , , 42.7289, -71.1604, RAIN_48, 0.83, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0530 PM, MA, Essex, 2.3 NE Georgetown, , , 42.7528, -70.9461, RAIN_48, 1.04, Inch, USGS, 48 hour rainfall,
+:9/27/2026,0937 AM, MA, Essex, Groveland 1.2 NE, , , 42.76, -71.0136, RAIN_48, 1.16, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0629 PM, MA, Essex, Manchester, , , 42.5808, -70.7669, RAIN_48, 1.19, Inch, URBANET, 48 hour rainfall,
+:9/27/2026,0900 AM, MA, Essex, Marblehead 1.9 NNE, , , 42.5081, -70.8528, RAIN_48, 1.2, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0800 AM, MA, Essex, Newburyport, MA, , , 42.8333, -70.9333, RAIN_48, 1.2, Inch, HADS, 48 hour rainfall,
+:9/27/2026,0600 PM, MA, Essex, Groveland, , , 42.7433, -71.0168, RAIN_48, 1.21, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0800 AM, MA, Essex, Marblehead 0.6 WNW, , , 42.4865, -70.8771, RAIN_48, 1.32, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0554 PM, MA, Essex, Lawrence AP, , , 42.7167, -71.1333, RAIN_48, 1.33, Inch, ASOS, 48 hour rainfall,
+:9/27/2026,0615 PM, MA, Essex, BEVERLY, , , 42.5639, -70.8756, RAIN_48, 1.36, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0800 AM, MA, Essex, North Andover 0.3 NW, , , 42.7038, -71.1203, RAIN_48, 1.42, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0800 AM, MA, Essex, Beverly 1.6 W, , , 42.5617, -70.8718, RAIN_48, 1.45, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0800 AM, MA, Essex, Middleton 1.4 SSW, , , 42.5813, -71.0271, RAIN_48, 1.46, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0625 PM, MA, Essex, MERRIMAC, , , 42.843, -70.98, RAIN_48, 1.48, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0623 PM, MA, Essex, Beverly AP, , , 42.5833, -70.9167, RAIN_48, 1.64, Inch, ASOS, 48 hour rainfall,
+:9/27/2026,0915 AM, MA, Essex, Newbury, , , 42.7935, -70.9949, RAIN_48, 1.74, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0615 PM, MA, Essex, West Newbury, , , 42.7843, -71.0023, RAIN_48, 1.84, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0615 PM, MA, Franklin, Greenfield, , , 42.5323, -72.5477, RAIN_48, 0.83, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0552 PM, MA, Franklin, Orange AP, , , 42.5667, -72.2833, RAIN_48, 0.87, Inch, ASOS, 48 hour rainfall,
+:9/27/2026,0615 PM, MA, Franklin, Ashfield, , , 42.5005, -72.768, RAIN_48, 2.39, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0700 AM, MA, Hampden, Monson 3.4 SSE, , , 42.0517, -72.2867, RAIN_48, 0.81, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0615 PM, MA, Hampden, Tolland, , , 42.0631, -73.0121, RAIN_48, 1.15, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0630 PM, MA, Hampden, 2 SSE Granville, , , 42.0378, -72.8481, RAIN_72, 1.16, Inch, AWS, 72 hour rainfall,
+:9/27/2026,0616 PM, MA, Hampshire, Easthampton, , , 42.2802, -72.7015, RAIN_48, 0.75, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0625 PM, MA, Hampshire, Pelham, , , 42.4098, -72.4358, RAIN_48, 0.79, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0749 AM, MA, Middlesex, Pepperell 0.6 SE, , , 42.6609, -71.5799, RAIN_48, 0.75, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0700 AM, MA, Middlesex, Littleton 0.9 WSW, , , 42.5309, -71.4883, RAIN_48, 0.76, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0700 AM, MA, Middlesex, Chelmsford 2.8 SSW, , , 42.5612, -71.3859, RAIN_48, 0.77, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0700 AM, MA, Middlesex, Ayer 0.1 SW, , , 42.5611, -71.5869, RAIN_48, 0.81, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0720 AM, MA, Middlesex, Lexington, , , 42.4515, -71.2153, RAIN_48, 0.82, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0900 AM, MA, Middlesex, Lexington 2.8 N, , , 42.4858, -71.2392, RAIN_48, 0.83, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0800 AM, MA, Middlesex, Groton 4.2 WNW, , , 42.6327, -71.6461, RAIN_48, 0.88, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0630 PM, MA, Middlesex, Marlborough Intermediat Marlborough, MA, , , 42.3575, -71.5486, RAIN_48, 0.92, Inch, URBANET, 48 hour rainfall,
+:9/27/2026,0700 AM, MA, Middlesex, Melrose 1.0 WNW, , , 42.4597, -71.0771, RAIN_48, 0.92, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0745 AM, MA, Middlesex, Littleton 1.4 W, , , 42.5338, -71.5005, RAIN_48, 0.93, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0628 PM, MA, Middlesex, Lexington, , , 42.4398, -71.2405, RAIN_48, 0.96, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0815 AM, MA, Middlesex, Woburn 0.8 S, , , 42.4735, -71.1552, RAIN_48, 0.97, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0957 AM, MA, Middlesex, Chelmsford 1.2 E, , , 42.5972, -71.3449, RAIN_48, 1.01, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0630 PM, MA, Middlesex, CHELMSFORDCHELMSFORD, , , 42.5836, -71.3153, RAIN_48, 1.03, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0625 PM, MA, Middlesex, Holliston, , , 42.2337, -71.422, RAIN_48, 1.03, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0620 PM, MA, Middlesex, Bedford, , , 42.4828, -71.3135, RAIN_48, 1.04, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0640 AM, MA, Middlesex, Belmont 0.2 ESE, , , 42.3988, -71.1638, RAIN_48, 1.06, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0800 AM, MA, Middlesex, Lowell 2.6 ENE, , , 42.6504, -71.2738, RAIN_48, 1.07, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0900 AM, MA, Middlesex, 1 NW Framingham, , , 42.3201, -71.4515, RAIN_48, 1.08, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0629 PM, MA, Middlesex, WILMINGTON, , , 42.5583, -71.1432, RAIN_48, 1.08, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0700 AM, MA, Middlesex, Maynard 0.7 ESE, , , 42.4203, -71.4448, RAIN_48, 1.11, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0615 PM, MA, Middlesex, Westford, , , 42.6177, -71.4927, RAIN_48, 1.13, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0615 PM, MA, Middlesex, Carlisle, , , 42.5442, -71.3727, RAIN_48, 1.14, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0700 AM, MA, Middlesex, Maynard 0.6 NNE, , , 42.4336, -71.4545, RAIN_48, 1.14, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0700 AM, MA, Middlesex, Hudson 1.4 NW, , , 42.4037, -71.5868, RAIN_48, 1.16, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0615 PM, MA, Middlesex, Groton, , , 42.6055, -71.5618, RAIN_48, 1.18, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0800 AM, MA, Middlesex, Winchester 0.8 W, , , 42.4509, -71.1632, RAIN_48, 1.19, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,1216 PM, MA, Middlesex, 1 NNW Lexington, , , 42.4549, -71.2352, RAIN_24, 1.24, Inch, Trained Spotter, 24 hour rainfall,
+:9/27/2026,0615 PM, MA, Middlesex, Westford, , , 42.549, -71.388, RAIN_48, 1.26, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0551 PM, MA, Middlesex, Bedford AP, , , 42.4667, -71.3, RAIN_48, 1.28, Inch, ASOS, 48 hour rainfall,
+:9/27/2026,0628 PM, MA, Middlesex, Littleton, , , 42.5419, -71.4861, RAIN_48, 1.35, Inch, URBANET, 48 hour rainfall,
+:9/27/2026,0625 PM, MA, Middlesex, WALTHAM, , , 42.3728, -71.2657, RAIN_48, 1.37, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0830 AM, MA, Middlesex, Winchester 0.7 SE, , , 42.4459, -71.1358, RAIN_48, 1.38, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0900 AM, MA, Middlesex, Wakefield 0.9 S, , , 42.4922, -71.0654, RAIN_48, 1.4, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0610 PM, MA, Middlesex, 1 WNW Carlisle, , , 42.5448, -71.3736, RAIN_24, 1.43, Inch, Trained Spotter, 24 hour rainfall,
+:9/27/2026,0925 AM, MA, Middlesex, Cambridge 1.0 WNW, , , 42.3815, -71.137, RAIN_48, 1.47, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0615 PM, MA, Middlesex, Acton, , , 42.4677, -71.482, RAIN_48, 1.5, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0354 PM, MA, Middlesex, 1 WNW Pepperell, , , 42.6714, -71.6084, RAIN_24, 1.61, Inch, Trained Spotter, 24 hour rainfall,
+:9/27/2026,0800 AM, MA, Middlesex, Cambridge 0.9 NNW, , , 42.3877, -71.1253, RAIN_48, 1.62, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0900 AM, MA, Middlesex, Newton 1.8 NNW, , , 42.3549, -71.2219, RAIN_48, 1.9, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0624 PM, MA, Middlesex, Somerville, , , 42.3907, -71.1072, RAIN_48, 1.99, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0634 PM, MA, Middlesex, Cambridge, , , 42.3808, -71.1297, RAIN_72, 2.01, Inch, AWS, 72 hour rainfall,
+:9/27/2026,0820 AM, MA, Middlesex, Framingham 1.6 ENE, , , 42.3145, -71.4095, RAIN_48, 2.22, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0630 PM, MA, Middlesex, Watertown, , , 42.371, -71.1995, RAIN_48, 2.39, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0800 AM, MA, Middlesex, Natick 1.9 NNE, , , 42.3087, -71.3358, RAIN_48, 2.4, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0628 PM, MA, Middlesex, Hopkinton, , , 42.2162, -71.5079, RAIN_48, 2.67, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0615 PM, MA, Middlesex, NEWTON, , , 42.3587, -71.237, RAIN_48, 2.7, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0700 AM, MA, Middlesex, 2 SW Ashland, , , 42.2255, -71.4878, RAIN_48, 2.82, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0627 PM, MA, Middlesex, Marlborough, , , 42.3695, -71.5014, RAIN_48, 2.95, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0610 PM, MA, Middlesex, Holyoke, , , 42.3685, -71.5306, RAIN_48, 3.07, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0615 PM, MA, Middlesex, Natick, , , 42.2925, -71.3507, RAIN_48, 3.27, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,1226 PM, MA, Middlesex, 2 SW Hopkinton, , , 42.1997, -71.5585, RAIN_24, 3.81, Inch, Trained Spotter, 24 hour rainfall,
+:9/27/2026,0615 PM, MA, Middlesex, Wellesley, , , 42.2457, -71.3725, RAIN_48, 4.1, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0519 PM, MA, Middlesex, 3 NE Milford, , , 42.1743, -71.4803, RAIN_24, 5.00, Inch, Trained Spotter, 24 hour rainfall,
+:9/27/2026,0618 PM, MA, Nantucket, Nantucket AP, , , 41.25, -70.0667, RAIN_48, 1.86, Inch, ASOS, 48 hour rainfall,
+:9/27/2026,0625 PM, MA, Norfolk, Dover, , , 42.2457, -71.2773, RAIN_48, 0.93, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0630 PM, MA, Norfolk, Needham, , , 42.3043, -71.2273, RAIN_48, 0.94, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0635 PM, MA, Norfolk, Walpole, , , 42.1456, -71.2519, RAIN_72, 1.88, Inch, AWS, 72 hour rainfall,
+:9/27/2026,0600 PM, MA, Norfolk, EAST WALPOLE, , , 42.152, -71.2055, RAIN_48, 2.77, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0800 AM, MA, Norfolk, Franklin 3.8 SW, , , 42.0454, -71.4365, RAIN_48, 2.86, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0745 AM, MA, Norfolk, Quincy 0.4 NNW, , , 42.2664, -71.0105, RAIN_48, 2.9, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0625 PM, MA, Norfolk, WELLESLEY, , , 42.295, -71.3025, RAIN_48, 3.17, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0800 AM, MA, Norfolk, 2 NE Plainville, , , 42.0259, -71.3028, RAIN_48, 3.18, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0825 AM, MA, Norfolk, 1 SE Needham, , , 42.2699, -71.2272, RAIN_48, 3.27, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0700 AM, MA, Norfolk, Norwood 1.3 NW, , , 42.1976, -71.2137, RAIN_48, 3.63, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0745 AM, MA, Norfolk, Stoughton 1.2 E, , , 42.1152, -71.0762, RAIN_48, 3.63, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0900 AM, MA, Norfolk, South Weymouth 1.3 ENE, , , 42.1803, -70.9271, RAIN_48, 3.85, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0830 AM, MA, Norfolk, Foxborough 3.1 E, , , 42.0628, -71.1889, RAIN_48, 4.19, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0629 PM, MA, Norfolk, Franklin, , , 42.113, -71.4232, RAIN_48, 4.32, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0553 PM, MA, Norfolk, Norwood AP, , , 42.1833, -71.1667, RAIN_48, 4.86, Inch, ASOS, 48 hour rainfall,
+:9/27/2026,0206 PM, MA, Norfolk, 2 NNW Weymouth, , , 42.2433, -70.9548, RAIN_24, 4.89, Inch, Trained Spotter, 24 hour rainfall,
+:9/27/2026,0800 AM, MA, Norfolk, Blue Hill Coop, , , 42.2123, -71.1137, RAIN_48, 5.12, Inch, COOP, 48 hour rainfall,
+:9/27/2026,1127 AM, MA, Norfolk, 1 NE Foxborough, , , 42.0712, -71.2367, RAIN_24, 5.41, Inch, Trained Spotter, 24 hour rainfall,
+:9/27/2026,0616 PM, MA, Norfolk, Milton (Blue Hill), , , 42.2121, -71.1142, RAIN_48, 5.42, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0219 PM, MA, Norfolk, 1 SSE Millis, , , 42.1612, -71.3504, RAIN_24, 5.65, Inch, Trained Spotter, 24 hour rainfall,
+:9/27/2026,0625 PM, MA, Norfolk, Westwood, , , 42.2178, -71.1907, RAIN_48, 5.69, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0354 PM, MA, Norfolk, 1 ESE Randolph, , , 42.172, -71.0437, RAIN_24, 6.84, Inch, Trained Spotter, 24 hour rainfall,
+:9/27/2026,0550 PM, MA, Norfolk, Blue Hills, , , 42.2077, -71.1105, RAIN_48, 6.9, Inch, RAWS, 48 hour rainfall,
+:9/27/2026,0633 PM, MA, Plymouth, 2 WNW Cohasset, , , 42.2542, -70.8383, RAIN_72, 0.79, Inch, AWS, 72 hour rainfall,
+:9/27/2026,0625 PM, MA, Plymouth, Pembroke, , , 42.08, -70.7725, RAIN_48, 0.87, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0635 PM, MA, Plymouth, Abington, , , 42.1186, -70.9533, RAIN_72, 0.95, Inch, AWS, 72 hour rainfall,
+:9/27/2026,0635 PM, MA, Plymouth, 2 ESE Marion, , , 41.6777, -70.7172, RAIN_72, 0.95, Inch, AWS, 72 hour rainfall,
+:9/27/2026,0630 PM, MA, Plymouth, 2 SE Cohasset, , , 42.2072, -70.77, RAIN_72, 1.11, Inch, AWS, 72 hour rainfall,
+:9/27/2026,0630 PM, MA, Plymouth, Pembroke, , , 42.0628, -70.7953, RAIN_72, 1.17, Inch, AWS, 72 hour rainfall,
+:9/27/2026,0626 PM, MA, Plymouth, MARSHFIELD, , , 42.1385, -70.707, RAIN_48, 1.27, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0625 PM, MA, Plymouth, Plymouth, , , 41.8998, -70.7, RAIN_48, 1.27, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0630 PM, MA, Plymouth, Lewes, , , 42.2042, -70.8706, RAIN_48, 1.3, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0627 PM, MA, Plymouth, NORWELL, , , 42.1572, -70.8225, RAIN_48, 1.41, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0800 AM, MA, Plymouth, Cohasset 0.7 WNW, , , 42.2365, -70.8123, RAIN_48, 2.4, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0630 PM, MA, Plymouth, 3 NW Rochester, , , 41.7742, -70.8472, RAIN_72, 2.42, Inch, AWS, 72 hour rainfall,
+:9/27/2026,0615 PM, MA, Plymouth, HINGHAM, , , 42.231, -70.8767, RAIN_48, 2.85, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0626 PM, MA, Plymouth, West Wareham, , , 41.7958, -70.7755, RAIN_48, 2.92, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0615 PM, MA, Plymouth, Pembroke, , , 42.0627, -70.7956, RAIN_48, 2.94, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0800 AM, MA, Plymouth, Plymouth 4.5 SSE, , , 41.898, -70.6438, RAIN_48, 3.27, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0617 PM, MA, Plymouth, Duxbury, , , 42.0482, -70.6904, RAIN_48, 3.29, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0613 PM, MA, Plymouth, Plymouth AP, , , 41.9167, -70.7333, RAIN_48, 3.62, Inch, ASOS, 48 hour rainfall,
+:9/27/2026,0630 PM, MA, Plymouth, 1 WNW Hanson, , , 42.0764, -70.8742, RAIN_48, 4.26, Inch, URBANET, 48 hour rainfall,
+:9/27/2026,0700 AM, MA, Plymouth, Wareham 5.6 NE, , , 41.8004, -70.6329, RAIN_48, 5.07, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,1039 AM, MA, Plymouth, Whitman, , , 42.0815, -70.9408, RAIN_24, 5.13, Inch, Trained Spotter, 24 hour rainfall,
+:9/27/2026,0800 AM, MA, Plymouth, Pembroke 2.8 SW, , , 42.0384, -70.8394, RAIN_48, 5.21, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0136 PM, MA, Plymouth, 3 WNW Kingston, , , 42.017, -70.7722, RAIN_24, 5.67, Inch, Trained Spotter, 24 hour rainfall,
+:9/27/2026,1251 PM, MA, Plymouth, Plympton 0.9 NNE, , , 41.9631, -70.812, RAIN_48, 5.72, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0720 AM, MA, Plymouth, 2 NNW Carver, , , 41.91, -70.7759, RAIN_24, 6.31, Inch, Public, 24 hour rainfall,
+:9/27/2026,1155 AM, MA, Plymouth, 2 NNW West Bridgewater, , , 42.0426, -71.0169, RAIN_24, 6.53, Inch, Trained Spotter, 24 hour rainfall,
+:9/27/2026,0700 AM, MA, Suffolk, Chelsea 0.8 N, , , 42.4073, -71.0357, RAIN_48, 2.12, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0554 PM, MA, Suffolk, Logan AP, , , 42.3606, -71.0106, RAIN_48, 2.15, Inch, ASOS, 48 hour rainfall,
+:9/27/2026,0530 PM, MA, Suffolk, 1.4 SE Allston, , , 42.3372, -71.1117, RAIN_48, 2.6, Inch, USGS, 48 hour rainfall,
+:9/27/2026,0800 AM, MA, Suffolk, Jamacia Plain, , , 42.3031, -71.1244, RAIN_48, 3.32, Inch, COOP, 48 hour rainfall,
+:9/27/2026,0900 AM, MA, Suffolk, Boston 6.5 SW, , , 42.2927, -71.1456, RAIN_48, 3.38, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0629 PM, MA, Suffolk, Brighton, , , 42.3425, -71.1536, RAIN_48, 3.68, Inch, URBANET, 48 hour rainfall,
+:9/27/2026,0700 AM, MA, Worcester, Ashburnham, , , 42.6178, -71.9159, RAIN_48, 0.75, Inch, COOP, 48 hour rainfall,
+:9/27/2026,0530 PM, MA, Worcester, 1.9 W Oxford, , , 42.1161, -71.9081, RAIN_48, 0.75, Inch, HADS, 48 hour rainfall,
+:9/27/2026,0733 AM, MA, Worcester, Spencer 1.7 W, , , 42.2419, -72.0251, RAIN_48, 0.8, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0700 AM, MA, Worcester, Sturbridge 4.6 SW, , , 42.0528, -72.1269, RAIN_48, 0.84, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0700 AM, MA, Worcester, Southbridge, , , 42.0583, -72.0721, RAIN_48, 0.89, Inch, COOP, 48 hour rainfall,
+:9/27/2026,0700 AM, MA, Worcester, Lancaster 0.6 NNE, , , 42.4589, -71.6639, RAIN_48, 0.96, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0800 AM, MA, Worcester, Fitchburg 1.5 NNE, , , 42.6073, -71.8004, RAIN_48, 0.99, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0700 AM, MA, Worcester, Rutland 3.8 N, , , 42.4172, -71.9654, RAIN_48, 1.03, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0700 AM, MA, Worcester, Leicester 2.5 WSW, , , 42.2374, -71.9461, RAIN_48, 1.06, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0909 AM, MA, Worcester, Auburn 2.1 NNE, , , 42.2264, -71.8111, RAIN_48, 1.22, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0700 AM, MA, Worcester, Gardner 1.4 SSW, , , 42.5642, -71.9936, RAIN_48, 1.26, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0823 AM, MA, Worcester, Harvard 2.1 S, , , 42.4689, -71.5836, RAIN_48, 1.36, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0820 AM, MA, Worcester, Leicester 2.4 ESE, , , 42.2308, -71.8608, RAIN_48, 1.39, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0700 AM, MA, Worcester, West Boylston 1.5 S, , , 42.3451, -71.7834, RAIN_48, 1.49, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0929 AM, MA, Worcester, Northbridge 1.7 WNW, , , 42.1631, -71.6789, RAIN_48, 1.51, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0745 AM, MA, Worcester, Berlin 1.3 WSW, , , 42.3775, -71.6583, RAIN_48, 1.65, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0615 PM, MA, Worcester, Webster, , , 42.0295, -71.8267, RAIN_48, 1.65, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0614 PM, MA, Worcester, Fitchburg AP, , , 42.55, -71.75, RAIN_48, 1.78, Inch, ASOS, 48 hour rainfall,
+:9/27/2026,0800 AM, MA, Worcester, Westborough 1.6 W, , , 42.2687, -71.6442, RAIN_48, 1.88, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0930 AM, MA, Worcester, Auburn 2.6 SW, , , 42.1734, -71.8687, RAIN_48, 2.02, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0823 AM, MA, Worcester, Paxton 1.8 ESE, , , 42.3024, -71.903, RAIN_48, 2.15, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0615 PM, MA, Worcester, Worcester, , , 42.2748, -71.8068, RAIN_48, 2.32, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0635 PM, MA, Worcester, 2 WSW Auburn, , , 42.1836, -71.8681, RAIN_72, 2.42, Inch, AWS, 72 hour rainfall,
+:9/27/2026,0912 AM, MA, Worcester, Shrewsbury 1.6 NNE, , , 42.3196, -71.7005, RAIN_48, 2.7, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0554 PM, MA, Worcester, Worcester AP, , , 42.2706, -71.8731, RAIN_48, 2.7, Inch, ASOS, 48 hour rainfall,
+:9/27/2026,0800 AM, MA, Worcester, Worcester 2.0 SE, , , 42.2452, -71.7862, RAIN_48, 2.72, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0628 PM, MA, Worcester, Blackstone, , , 42.0418, -71.5153, RAIN_48, 3, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0556 PM, MA, Worcester, WORCESTER, , , 42.2812, -71.8558, RAIN_48, 3.45, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0905 AM, MA, Worcester, Shrewsbury 0.4 S, , , 42.2943, -71.7159, RAIN_48, 3.54, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0604 PM, MA, Worcester, 2 WSW Westborough, , , 42.259, -71.6563, RAIN_24, 3.57, Inch, NWS Employee, 24 hour rainfall,
+:9/27/2026,0123 PM, MA, Worcester, 2 SSW Harvard, , , 42.4754, -71.5932, RAIN_24, 3.90, Inch, Public, 24 hour rainfall,
+:9/27/2026,0635 PM, MA, Worcester, 1 WSW Westborough, , , 42.2558, -71.6486, RAIN_72, 4.11, Inch, AWS, 72 hour rainfall,
+:9/27/2026,0700 AM, RI, Bristol, Barrington 1.3 WNW, , , 41.7418, -71.3419, RAIN_48, 2.95, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0256 PM, RI, Bristol, Warren, , , 41.7173, -71.262, RAIN_24, 3.55, Inch, Public, 24 hour rainfall,
+:9/27/2026,0627 PM, RI, Kent, COVENTRY, , , 41.6632, -71.6668, RAIN_48, 1.45, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0626 PM, RI, Kent, COVENTRY, , , 41.6898, -71.5905, RAIN_48, 1.52, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0900 AM, RI, Kent, East Greenwich 2.0 NE, , , 41.6624, -71.452, RAIN_48, 2.04, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0632 PM, RI, Kent, RI TF Green AP, , , 41.7225, -71.4325, RAIN_72, 2.63, Inch, ASOS, 72 hour rainfall,
+:9/27/2026,0800 AM, RI, Kent, East Greenwich 2.3 ESE, , , 41.6625, -71.4159, RAIN_48, 2.67, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0815 AM, RI, Kent, Warwick 1.4 NE, , , 41.7187, -71.405, RAIN_48, 2.84, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0800 AM, RI, Kent, Coventry 1.2 SW, , , 41.6766, -71.5808, RAIN_48, 2.9, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0800 AM, RI, Kent, Coventry 5.0 WNW, , , 41.7134, -71.6556, RAIN_48, 2.99, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0900 AM, RI, Kent, Coventry, , , 41.6899, -71.6372, RAIN_48, 3.28, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0800 AM, RI, Kent, East Greenwich 0.8 SE, , , 41.6268, -71.4985, RAIN_48, 3.4, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0800 AM, RI, Kent, West Warwick 3.3 SSW, , , 41.6565, -71.5496, RAIN_48, 3.46, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0806 AM, RI, Kent, West Warwick 2.1 NNE, , , 41.7231, -71.4975, RAIN_48, 3.54, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0800 AM, RI, Newport, Newport 1.3 SW, , , 41.4686, -71.3375, RAIN_48, 1.16, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0630 PM, RI, Newport, Newport, , , 41.4981, -71.3081, RAIN_72, 1.61, Inch, AWS, 72 hour rainfall,
+:9/27/2026,0634 PM, RI, Newport, 1 NW Jamestown, , , 41.4988, -71.3783, RAIN_72, 1.62, Inch, AWS, 72 hour rainfall,
+:9/27/2026,0800 AM, RI, Newport, Jamestown 0.4 NE, , , 41.5003, -71.3653, RAIN_48, 2.05, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0800 AM, RI, Newport, Portsmouth 5.2 SSE, , , 41.5276, -71.2284, RAIN_48, 2.67, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0800 AM, RI, Newport, Jamestown 0.7 NNE, , , 41.505, -71.3649, RAIN_48, 3.02, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0920 AM, RI, Newport, Tiverton 3.6 S, , , 41.6024, -71.2041, RAIN_48, 3.38, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0700 AM, RI, Newport, Portsmouth 3.7 NNE, , , 41.6504, -71.2227, RAIN_48, 4.14, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0800 AM, RI, Providence, Valley Falls 1.1 W, , , 41.925, -71.4149, RAIN_48, 2.2, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0917 AM, RI, Providence, Cranston 1.5 SW, , , 41.7509, -71.5003, RAIN_48, 2.31, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0830 AM, RI, Providence, Cumberland 2.4 ENE, , , 41.9792, -71.4149, RAIN_48, 2.57, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0700 AM, RI, Providence, Greenville 0.7 NNW, , , 41.8889, -71.5603, RAIN_48, 2.63, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0626 PM, RI, Providence, CHEPACHET, , , 41.8758, -71.7257, RAIN_48, 2.65, Inch, CWOP, 48 hour rainfall,
+:9/27/2026,0800 AM, RI, Providence, Providence 2.0 ENE, , , 41.8305, -71.3836, RAIN_48, 2.87, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0845 AM, RI, Providence, Cranston 4.2 ENE, , , 41.7799, -71.4017, RAIN_48, 3.08, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0800 AM, RI, Providence, Pawtucket 1.8 E, , , 41.8751, -71.3393, RAIN_48, 3.12, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0800 AM, RI, Providence, Cranston 1.7 NNE, , , 41.7883, -71.4666, RAIN_48, 3.52, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0556 PM, RI, Washington, Block Island AP, , , 41.1667, -71.5833, RAIN_48, 0.92, Inch, AWOS, 48 hour rainfall,
+:9/27/2026,0700 AM, RI, Washington, Westerly 3.5 S, , , 41.3209, -71.8192, RAIN_48, 1.12, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0632 PM, RI, Washington, 3.9 SW South Kingstown, , , 41.3828, -71.5814, RAIN_72, 1.16, Inch, HADS, 72 hour rainfall,
+:9/27/2026,0605 PM, RI, Washington, URI PECKHAM FARMS KINGSTON 1 W   RI US, , , 41.4781, -71.5417, RAIN_48, 1.31, Inch, HADS, 48 hour rainfall,
+:9/27/2026,0700 AM, RI, Washington, Westerly 0.8 WNW, , , 41.377, -71.8233, RAIN_48, 1.32, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0700 AM, RI, Washington, Westerly 2.4 NNW, , , 41.4042, -71.825, RAIN_48, 1.35, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0634 PM, RI, Washington, Westerly AP, , , 41.35, -71.8, RAIN_72, 1.46, Inch, ASOS, 72 hour rainfall,
+:9/27/2026,0630 PM, RI, Washington, 2 ENE Charlestown, , , 41.3964, -71.6003, RAIN_72, 1.49, Inch, AWS, 72 hour rainfall,
+:9/27/2026,0605 PM, RI, Washington, URI PLAINS ROAD KINGSTON 1 NW    RI US, , , 41.4858, -71.5414, RAIN_48, 1.54, Inch, HADS, 48 hour rainfall,
+:9/27/2026,0800 AM, RI, Washington, Charlestown 3.0 WSW, , , 41.3609, -71.6912, RAIN_48, 1.73, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0855 AM, RI, Washington, Bradford 1.9 NE, , , 41.4149, -71.7263, RAIN_48, 1.9, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0800 AM, RI, Washington, Saunderstown 1.4 SW, , , 41.5013, -71.4476, RAIN_48, 2.16, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0800 AM, RI, Washington, Wood River Junction 0.7 W, , , 41.4385, -71.7082, RAIN_48, 2.34, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0700 AM, RI, Washington, Narragansett 2.7 NNE, , , 41.4852, -71.4256, RAIN_48, 2.36, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0800 AM, RI, Washington, Charlestown 1.0 NE, , , 41.3951, -71.6292, RAIN_48, 2.37, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0700 AM, RI, Washington, Kingston 3.6 N, , , 41.524, -71.525, RAIN_48, 2.39, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0800 AM, RI, Washington, South Kingston 4.3 WSW, , , 41.4164, -71.5964, RAIN_48, 2.41, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0700 AM, RI, Washington, Wakefield-Peacedale 3.1 NE, , , 41.4794, -71.4628, RAIN_48, 2.55, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0800 AM, RI, Washington, South Kingstown 4.2 WSW, , , 41.417, -71.5955, RAIN_48, 2.6, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0800 AM, RI, Washington, Charlestown 2.3 ENE, , , 41.395, -71.6025, RAIN_48, 2.69, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0800 AM, RI, Washington, Richmond 2.4 SSE, , , 41.4617, -71.6549, RAIN_48, 2.77, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0900 AM, RI, Washington, Richmond 2.9 NE, , , 41.5211, -71.6269, RAIN_48, 2.8, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0800 AM, RI, Washington, Wickford 0.8 WNW, , , 41.5739, -71.4662, RAIN_48, 2.86, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0902 AM, RI, Washington, North Kingston 0.4 W, , , 41.5552, -71.4613, RAIN_48, 3.15, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0700 AM, RI, Washington, Kingston 0.3 SW, , , 41.4693, -71.5277, RAIN_48, 3.16, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0929 AM, RI, Washington, Exeter 2.4 ESE, , , 41.5706, -71.5333, RAIN_48, 3.17, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0800 AM, RI, Washington, Block Island Coop, , , 41.1578, -71.5676, RAIN_48, 3.2, Inch, COOP, 48 hour rainfall,
+:9/27/2026,0700 AM, RI, Washington, North Kingstown 0.5 NNW, , , 41.5628, -71.4558, RAIN_48, 3.31, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0800 AM, RI, Washington, North Kingstown 2.7 WSW, , , 41.5411, -71.5016, RAIN_48, 3.34, Inch, COCORAHS, 48 hour rainfall,
+:9/27/2026,0800 AM, RI, Washington, Wakefield 0.8 ENE, , , 41.4503, -71.4874, RAIN_48, 3.37, Inch, COCORAHS, 48 hour rainfall,
+
+Observations are collected from a variety of sources with varying
+equipment and exposures. We thank all volunteer weather observers
+for their dedication. Not all data listed are considered official.
+
+$$
